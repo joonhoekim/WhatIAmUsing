@@ -1,0 +1,5 @@
+Okular
+Xournal++
+Inkodo
+mitmProxy
+Concept (무한캔버스드로잉이고 맥/윈도/안드/iOS 다지원함)
